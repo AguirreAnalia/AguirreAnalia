@@ -1,8 +1,9 @@
 <h1 align="center">Hola, Soy Analia 👋,</h1>
 <h3 align="center">Soy Full Stack Web Developer :computer:</h3>
 
-##Bienvenid@s a mis proyectos, los cuales voy mejorando y agregando dia a dia, siempre aprendiendo algo nuevo o una optimizacion nueva.
-
+<br>
+Bienvenid@s a mis proyectos, los cuales voy mejorando y agregando dia a dia, siempre aprendiendo algo nuevo o una optimizacion nueva.
+<br>
 ```java
  public void saveDeveloper {
  Developer developer = new Developer();
@@ -12,7 +13,7 @@
  developerRepository.save(developer);
 }
 ```
-
+<br>
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -29,4 +30,4 @@
 <h2>- ⚡ Si quieres contactarte conmigo:</h2><br>
 
   <a href = "mailto:aguirreanalia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aguirreanalia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/analiaaguirre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
