@@ -3,7 +3,7 @@
 
 <br>
 Bienvenid@s a mis proyectos, los cuales voy mejorando y agregando dia a dia, siempre aprendiendo algo nuevo o una optimizacion nueva.
-<br>
+
 ```java
  public void saveDeveloper {
  Developer developer = new Developer();
@@ -13,7 +13,7 @@ Bienvenid@s a mis proyectos, los cuales voy mejorando y agregando dia a dia, sie
  developerRepository.save(developer);
 }
 ```
-<br>
+
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
