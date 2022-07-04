@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Analia 👋,</h1>
-<h3 align="center">Soy Full Stack Web Developer :computer:</h3>
+<h3 align="center">Soy Developer BackEnd :computer:</h3>
 
 <br>
 Bienvenid@s a mis proyectos, los cuales voy mejorando y agregando dia a dia, siempre aprendiendo algo nuevo o una optimizacion nueva.
